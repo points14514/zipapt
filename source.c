@@ -5,6 +5,7 @@
 #include <sys/stat.h>
 #include <sys/wait.h>
 #include <errno.h>
+#include <fcntl.h>
 
 #define VERSION "1.0-stable"
 #define TMP_DIR "/data/data/com.termux/files/usr/tmp/zipapt_workdir"
