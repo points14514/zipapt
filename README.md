@@ -16,18 +16,6 @@ If you have flashed your phone or flashed in any kernel module. Then he may some
 
 # How do I install it
 
-Just execute this
+Just execute this 'make'
 
-""" bash
-
-make
-
-"""
-
-It can also be direct
-
-""" bash
-
-sh build.sh
-
-"""
+It can also be direct 'sh build.sh'
