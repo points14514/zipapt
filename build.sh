@@ -1,1 +1,1 @@
-gcc source.c -o zipapt
+aarch64-linux-android-gcc source.c -o zipapt
