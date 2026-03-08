@@ -13,3 +13,21 @@ He specially installed a special software package : .zdeb(zip debian package)
 No, because we have to maintain compatibility for Android
 
 If you have flashed your phone or flashed in any kernel module. Then he may sometimes be applicable and sometimes not
+
+# How do I install it
+
+Just execute this
+
+""" bash
+
+make
+
+"""
+
+It can also be direct
+
+""" bash
+
+sh build.sh
+
+"""
