@@ -19,3 +19,10 @@ If you have flashed your phone or flashed in any kernel module. Then he may some
 Just execute this 'make'
 
 It can also be direct 'sh build.sh'
+
+# Author information
+
+Let me do it in Chinese first
+
+First name:冯鸿麒
+What country is he in?:China
